@@ -35,7 +35,16 @@ Task B.)
   ii. One assumption is the cantilever base flexible joint behaves within its linear elastic regime without plastic deformation during full closure.  
   C.)   
   <img src="clippers.PNG" alt="top down image of clippers" width="500">  
-  Base & Top Frames : Formed from two parallel steel strips spot-welded or riveted at the rear end. The geometry acts as a cantilever leaf spring that keeps the jaws naturally biased open. The distal ends are ground into matching concave arcs.  
+  Base & Top Frames : Formed from two parallel steel strips spot-welded or riveted at the rear end. The geometry acts as a cantilever leaf spring that keeps the jaws naturally biased open. The distal ends are ground into matching concave arcs.   
+  <img src="clippers2.png" alt="image of top arm" width="500">   
+  The top arm acts as a class-2 lever. Its base features an offset cam profile and notch that hooks onto the central pin, converting rotational thumb pressure into a downward pulling force on the top jaw.  
+ D.)  
+ Patent Info: US Patent 2,477,782 (W.E. Bassett, 1949).  
+
+i. Alternative Solutions: Scissor-style manicure nippers or a manual flat file/abrasive wheel.  
+
+ii. Key Design Choice: Curved concave cutting edges matching the natural contour of human nails to distribute cutting stress evenly rather than crushing from a single point contact.  
+    
   
   
 

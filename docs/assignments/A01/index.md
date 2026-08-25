@@ -46,7 +46,9 @@ i. Alternative Solutions: Scissor-style manicure nippers or a manual flat file/a
 ii. Key Design Choice: Curved concave cutting edges matching the natural contour of human nails to distribute cutting stress evenly rather than crushing from a single point contact. I believe the original engineer decided to do this to make the clipping of the nails more even for the the user providing a better user experience.  
     
   
-  
+  ## Decide 
+  Homepage Identity -  
+  The average reader must know that I am a student at the University of Charlotte at North Carolina that is important to understanding this homepage and why it is built as such. The homepage layout is unique but it is also not very flexible in design for things that can be changed and cannot. It is organized in a way such that it is easy to find each assignment for my teachers and tas without hassle and in such a way that is appealing to me in a sense as that is what I require any webpage I build to have for myself. This homepage encapsulates all the work done by Atiba Johnson in his sophomore design class. 
 
 
 

@@ -23,10 +23,16 @@ C.) No clear reasoning for design choices are shown nor are there any clear step
 
 D.) The language used on this website is professional, it is up to the standard of the average employer. 
 
-Task B.)
+Task B.)  
 
+ A.) Primary Engineering Functions: Amplify manual compression initial force through a compound lever system to drive opposing curved edges into a material creating localized shear and compressive failure. 
 
-
+ B.)  
+  i. Model of Compound Mechanical Advantage (MAtot = MAlever x MAcantilever)  
+  (MAlever = d effort / d fulcrum)  
+  (F blade = Fthumb X MAtotal : net force to the cutting jaws (N))  
+  
+  ii. One assumption is the cantilever base flexible joint behaves within its linear elastic regime without plastic deformation during full closure. 
 
 ## Decide
 

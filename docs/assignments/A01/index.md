@@ -33,8 +33,8 @@ Task B.)
   (F blade = Fthumb X MAtotal : net force to the cutting jaws (N))  
   
   ii. One assumption is the cantilever base flexible joint behaves within its linear elastic regime without plastic deformation during full closure. 
-  C.)  
-  <img src="clippers.PNG" alt="top down image of clippers" width="500">
+  C.)   
+  <img src="clippers.PNG" alt="top down image of clippers" width="500">  
   Base & Top Frames : Formed from two parallel steel strips spot-welded or riveted at the rear end. The geometry acts as a cantilever leaf spring that keeps the jaws naturally biased open. The distal ends are ground into matching concave arcs.
   
 

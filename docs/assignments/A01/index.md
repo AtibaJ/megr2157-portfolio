@@ -48,7 +48,12 @@ ii. Key Design Choice: Curved concave cutting edges matching the natural contour
   
   ## Decide 
   Homepage Identity -  
-  The average reader must know that I am a student at the University of Charlotte at North Carolina that is important to understanding this homepage and why it is built as such. The homepage layout is unique but it is also not very flexible in design for things that can be changed and cannot. It is organized in a way such that it is easy to find each assignment for my teachers and tas without hassle and in such a way that is appealing to me in a sense as that is what I require any webpage I build to have for myself. This homepage encapsulates all the work done by Atiba Johnson in his sophomore design class. 
+  The average reader must know that I am a student at the University of Charlotte at North Carolina that is important to understanding this homepage and why it is built as such. The homepage layout is unique but it is also not very flexible in design for things that can be changed and cannot. It is organized in a way such that it is easy to find each assignment for my teachers and tas without hassle and in such a way that is appealing to me in a sense as that is what I require any webpage I build to have for myself. This homepage encapsulates all the work done by Atiba Johnson in his sophomore design class.  
+
+  One thing that you may see changed is the added due dates to the assignments, this is necessary to me as I have to be able to see when an assignment is due at a glance so I'm not surprised by due dates later, the old template didn't have this and I like this change.   
+
+  The standard -  
+  I intend to make sure my writing reads pleasantly to an average viewer throughout this class as well as my own website and work will grow more unique as I learn more about this class. I intend to put as much effort into this class as I possibly can. 
 
 
 

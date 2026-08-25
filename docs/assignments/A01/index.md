@@ -43,7 +43,7 @@ Task B.)
 
 i. Alternative Solutions: Scissor-style manicure nippers or a manual flat file/abrasive wheel.  
 
-ii. Key Design Choice: Curved concave cutting edges matching the natural contour of human nails to distribute cutting stress evenly rather than crushing from a single point contact.  
+ii. Key Design Choice: Curved concave cutting edges matching the natural contour of human nails to distribute cutting stress evenly rather than crushing from a single point contact. I believe the original engineer decided to do this to make the clipping of the nails more even for the the user providing a better user experience.  
     
   
   

@@ -49,8 +49,4 @@ ii. Key Design Choice: Curved concave cutting edges matching the natural contour
   
 
 
-## Decide
-
-
-## Communicate
 

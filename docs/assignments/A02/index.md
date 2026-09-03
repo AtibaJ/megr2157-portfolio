@@ -41,7 +41,7 @@ The unknowns for this start was Pins A, B, and The weight of our Pins as at the 
 Throughout this I learned a lot about how to design a cad system based on parameters assigned, how to use Creo parametric to put together parts, but mainly I learned how to go from a Freebody diagram to a finished design. I think overall this assignment was difficult for me cause of the cad portion and I am not as experienced in the program as I would like to be, but I will take this as a learning experience and do better for my next assignment. 
 
 ##Links 
-<a href="file:///C:/Users/atiba/Desktop/pins.prt" download>Download Pins</a>
-<a href="done.png" download>Download Final Pins</a>
+<a href="" download>Download Final Connections</a>
+<a href="pins.prt.1" download>Download Pins</a>
 
 

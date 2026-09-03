@@ -16,7 +16,9 @@ This geometric foundation was established to effectively distribute and support 
 
 <img src="Joints FBD.png" alt="Image FBD of the Joints">    
 
-*second image for clarity of force value*
+*second image for clarity of force value*  
+
+<img src="clarity.png" alt="Image FBD values at members">  
 
 
 ## Design Shear With A Safety Factor

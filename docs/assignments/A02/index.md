@@ -31,7 +31,11 @@ The unknowns for this start was Pins A, B, and The weight of our Pins as at the 
 
 
 ## Cad Designs 
- This section details the execution of a 3D solid model using the analytically derived parameters—including a maximum critical load of 41.67kN and a minimum cross-sectional area of 460.1 mm^2 scaled for ASTM A500 Grade B steel under a safety factor of 3.5. By constructing the main truss framework as a single integrated part while incorporating cylindrical pin joints with accurate cross-sectional dimensions, this phase shows the structural integrity, geometric constraints, and mass properties of the entire system. 
- 
+ This section details the execution of a 3D solid model using the analytically derived parameters—including a maximum critical load of 41.67kN and a minimum cross-sectional area of 460.1 mm^2 scaled for ASTM A500 Grade B steel under a safety factor of 3.5. By constructing the main truss framework as a single integrated part while incorporating cylindrical pin joints with accurate cross-sectional dimensions, this phase shows the structural integrity, geometric constraints, and mass properties of the entire system.   
+
+ <img src="dimensions" alt="Image FBD values at shear">   
+ <img src="pins.png" alt="Image of pins being created">   
+ <img src="done.png" alt="Image of finished values">   
+
 
 

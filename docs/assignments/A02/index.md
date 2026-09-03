@@ -23,11 +23,15 @@ This geometric foundation was established to effectively distribute and support 
 
 ## Design Shear With A Safety Factor
 
-To determine the minimum cross-sectional area of the connecting pins, we use the maximum internal force from the truss analysis, apply the safety factor, and evaluate against the shear strength of the hardened tool steel. Since a grade of steel wasn't explicitly shown I decided to use grade C for my design. The pictures for how the safety factor was done are also hand written and shown below. The shear was done this way intentionally to create as little deformation as possible within the considerations provided. 
+To determine the minimum cross-sectional area of the connecting pins, we use the maximum internal force from the truss analysis, apply the safety factor, and evaluate against the shear strength of the hardened tool steel. Since a grade of steel wasn't explicitly shown I decided to use grade B for my design. The pictures for how the safety factor was done are also hand written and shown below. The shear was done this way intentionally to create as little deformation as possible within the considerations provided. 
 
 The unknowns for this start was Pins A, B, and The weight of our Pins as at the time we didn't have them. The knowns we had were the values upon each of the members found in the previous steps. Below you can find my equations for how I solved everything and a free by diagram showing the shear force of the object. 
 
 <img src="sheerfbd.png" alt="Image FBD values at shear">  
 
+
+## Cad Designs 
+ This section details the execution of a 3D solid model using the analytically derived parameters—including a maximum critical load of 41.67kN and a minimum cross-sectional area of 460.1 mm^2 scaled for ASTM A500 Grade B steel under a safety factor of 3.5. By constructing the main truss framework as a single integrated part while incorporating cylindrical pin joints with accurate cross-sectional dimensions, this phase shows the structural integrity, geometric constraints, and mass properties of the entire system. 
+ 
 
 

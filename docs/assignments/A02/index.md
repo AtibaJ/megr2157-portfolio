@@ -1,6 +1,6 @@
 # A2 – Truss Stress Analysis
 
-## Objective
+## Objective 
 
 
 ## Analyze

@@ -25,7 +25,9 @@ This geometric foundation was established to effectively distribute and support 
 
 To determine the minimum cross-sectional area of the connecting pins, we use the maximum internal force from the truss analysis, apply the safety factor, and evaluate against the shear strength of the hardened tool steel. Since a grade of steel wasn't explicitly shown I decided to use grade C for my design. The pictures for how the safety factor was done are also hand written and shown below. The shear was done this way intentionally to create as little deformation as possible within the considerations provided. 
 
-The unknowns for this start was Pins A, B, and The weight of our Pins as at the time we didn't have them. The knowns we had were the values upon each of the members found in the previous steps. Below you can find my equations for how I solved everything and a free by diagram showing the sheer force of the object. 
+The unknowns for this start was Pins A, B, and The weight of our Pins as at the time we didn't have them. The knowns we had were the values upon each of the members found in the previous steps. Below you can find my equations for how I solved everything and a free by diagram showing the shear force of the object. 
+
+<img src="sheerfbd.png" alt="Image FBD values at shear">  
 
 
 

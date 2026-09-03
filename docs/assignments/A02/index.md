@@ -12,11 +12,12 @@ The design of this truss was focused at its core on stability using the equation
 
 
 **Freebody Diagram**  
-This geometric foundation was established to effectively distribute and support the downward external loads applied at the bottom chord joints. I did the Isolating of each individual joint to provide the necessary framework for applying static equilibrium equations and finding unknown member forces. Free-body diagrams were constructed for every joint by conceptually cutting connecting members and explicitly labeling external reactions alongside internal axial forces. Each diagram mapped out the angular components and reaction vectors, such as A<sub>y</sub> = P and B<sub>y</sub> = P, to prepare for the subsequent analytical calculations.
+This geometric foundation was established to effectively distribute and support the downward external loads applied at the bottom chord joints. I did the Isolating of each individual joint to provide the necessary framework for applying static equilibrium equations and finding unknown member forces. Free-body diagrams were constructed for every joint by conceptually cutting connecting members and explicitly labeling external reactions alongside internal axial forces. Each diagram mapped out the angular components and reaction vectors, such as A<sub>y</sub> = P and B<sub>y</sub> = P, to prepare for the subsequent analytical calculations. Below are pictures of my calculations both symbolically and algebraically. 
 
 
+## Design Shear With A Safety Factor
 
-**Forces Symbolically/Algebraically**   
+To determine the minimum cross-sectional area of the connecting pins, we use the maximum internal force from the truss analysis, apply the safety factor, and evaluate against the shear strength of the hardened tool steel. Since a grade of steel wasn't explicitly shown I decided to use grade C for my design. The pictures for how the safety factor was done are also hand written and shown below. The shear was done this way intentionally to create as little deformation as possible within the considerations provided. 
 
-The internal and external forces acting on the 
+
 

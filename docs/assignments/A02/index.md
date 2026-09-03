@@ -1,13 +1,22 @@
 # A2 – Truss Stress Analysis
 
-## Objective 
+## Objective -  
+This portfolio documentation details comprehensive structural analysis, design, and 3D modeling of a pin-jointed truss system when exposed  to concentrated external loads. The primary objective of this project is to bridge our understanding of statics with practical engineering design by evaluating structural equilibrium, member forces, material yield criteria, and mass optimization. I was tasked with creating a truss design based on set pin locations and as well as two force loads of C and D. Below is a picture of what I was tasked designing.  
+
+<img src="A2Obj.png" alt="Image given at the start">  
+
+## Designing The Truss -  
+**Lengths**
+
+The design of this truss was focused at its core on stability using the equation for stability I was able to find five members would be required for this truss design. The members lengths are as follows AB is 1.2 meters, CD is 0.4 meters, BC is 0.5 meters, DA is 0.5 meters and lastly CA is 0.854 meters. 
 
 
-## Analyze
+**Freebody Diagram**  
+This geometric foundation was established to effectively distribute and support the downward external loads applied at the bottom chord joints. I did the Isolating of each individual joint to provide the necessary framework for applying static equilibrium equations and finding unknown member forces. Free-body diagrams were constructed for every joint by conceptually cutting connecting members and explicitly labeling external reactions alongside internal axial forces. Each diagram mapped out the angular components and reaction vectors, such as A<sub>y</sub> = P and B<sub>y</sub> = P, to prepare for the subsequent analytical calculations.
 
 
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
-## Communicate
+**Forces Symbolically/Algebraically**   
+
+The internal and external forces acting on the 
 

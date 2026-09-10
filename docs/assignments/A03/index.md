@@ -42,9 +42,7 @@ For my simulation my maximum stress was a lot higher than what would be allowed 
 <img src="displacement.png" alt="Picture of Parameters used" width="500">
 
 * von Mises Stress map*
-<img src="displacement.png" alt="Picture of Parameters used" width="500">
-## Decide
+<img src="stress.png" alt="Picture of Parameters used" width="500">
 
-
-## Communicate
-
+## Part 5: Conclusion
+My deflection from my hand calculations was 0.009 inches and from my FEA it was 0 which is a percent difference of a large 200%!

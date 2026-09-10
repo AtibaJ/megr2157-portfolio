@@ -44,5 +44,15 @@ For my simulation my maximum stress was a lot higher than what would be allowed 
 * von Mises Stress map*
 <img src="stress.png" alt="Picture of Parameters used" width="500">
 
-## Part 5: Conclusion
-My deflection from my hand calculations was 0.009 inches and from my FEA it was 0 which is a percent difference of a large 200%!
+## Part 5: Result Checking 
+My deflection from my hand calculations was 0.009 inches and from my FEA it was 0 which is a percent difference of a large 200%! 
+This large discrepancy more than likely comes from a bad transfer of ideology to practice, in theory I shouldn't have this large of a discrepancy and it can only stem from bad cad design on my part as the number started with was a fixed value. I would trust the design stress that was given while I do trust my own cad designs to work as intended. I don't believe it is possible to create a beam that can have no stress from a 400 lbf load when the bar is that small. 
+
+*b* 
+Because my area was equal to 0.2344in my total psi would be 1,706.5 and the max stress would be 2.5 times that value at 4,266.25 psi. Assuming a yield strength of 40,000 psi my safety factor would be 40,000/4266.25, totaling 9.38 This would easily pass the safety factor requirement. 
+
+## Part 6: Final Statements 
+
+From this project I learned that I have to learn more about cad while I was doing this project a lot of the errors I ran into came from not knowing Creo as well as I would like to know it. The mistake of seeing a circular vs hollow box beam though isn't something that can be fixed with better cad design. I think one of the main things I learned here was to never give up and you can always push through a difficult assignment. My time spent was around 6 hours from beginning to end. 
+
+Download my files here 

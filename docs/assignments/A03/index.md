@@ -39,6 +39,10 @@ Finally I would change the material to the parameters given and what can be foun
 For my simulation my maximum stress was a lot higher than what would be allowed for aluminum, this is due to my own I assume due to a negligence in calculations or problem with the way I oriented in creo
 
 * Displacement *
+<img src="displacement.png" alt="Picture of Parameters used" width="500">
+
+* von Mises Stress map*
+<img src="displacement.png" alt="Picture of Parameters used" width="500">
 ## Decide
 
 

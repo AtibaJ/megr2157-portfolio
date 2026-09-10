@@ -55,4 +55,6 @@ Because my area was equal to 0.2344in my total psi would be 1,706.5 and the max 
 
 From this project I learned that I have to learn more about cad while I was doing this project a lot of the errors I ran into came from not knowing Creo as well as I would like to know it. The mistake of seeing a circular vs hollow box beam though isn't something that can be fixed with better cad design. I think one of the main things I learned here was to never give up and you can always push through a difficult assignment. My time spent was around 6 hours from beginning to end. 
 
-Download my files here 
+<a href="a3twice.prt.1" download>
+  Download Creo File 
+</a>
